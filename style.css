@@ -1,0 +1,55 @@
+.portfolio {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+li {
+  display: inline;
+  margin: 130px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+ul {
+  text-align: center;
+  background-color: yellow;
+}
+.Hello {
+  /* text-align: center; */
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  border: inset;
+  background-image: url(https://image.freepik.com/free-photo/color-powder-explosion-cloud-black-background-freeze-motion-color-dust-particles-splashing_36326-2450.jpg);
+  height: 220px;
+  text-align: center;
+}
+section {
+  margin: 90px;
+}
+body {
+  background-color: rgb(0, 0, 0);
+}
+.partie1 {
+  color: white;
+}
+.partie2 {
+  color: rgb(0, 0, 0);
+  background-color: yellow;
+}
+.follow {
+  color: yellow;
+}
+/* section 2 */
+.text {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+/* section 3  */
+.title {
+  text-align: center;
+}
+.images {
+  height: 200px;
+}
